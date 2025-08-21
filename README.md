@@ -1,27 +1,70 @@
-🎓 Student Score Prediction Model
+🎓 Student Score Prediction Model  
 
-This project is a Machine Learning model that predicts student scores based on study habits, attendance, sleep hours, tutoring sessions, and previous academic performance.  
+A Machine Learning project that predicts student scores based on study habits, attendance, sleep hours, tutoring sessions, and previous academic performance.  
 
-It includes a Tkinter-based GUI application where users can input details and instantly get predictions.
+This repository includes:  
+- 📦 A trained **Linear Regression model**  
+- 🖥️ An interactive **Tkinter GUI** for offline use  
+- 🌐 A **live demo** (first model: Hours Studied → Score)  
 
-
+---
 
 🚀 Features
-- ✅ Predicts student scores based on multiple inputs (hours studied, sleep, attendance, etc.)
-- ✅ Interactive **Tkinter GUI** for offline use
-- ✅ Trained with **Linear Regression**
-- ✅ Easy to run locally
-- ✅ Ready for deployment (Flask/Django/Streamlit can be added)
+- ✅ Predicts student scores based on multiple inputs (hours studied, sleep, attendance, etc.)  
+- ✅ Interactive **Tkinter GUI** for local testing  
+- ✅ Built with **Linear Regression**  
+- ✅ Easy to run locally (just clone & run)  
+- ✅ Future-ready for deployment (Flask, Django, or Streamlit)  
 
+---
 
 📊 Dataset
-The model is trained on a dataset containing the following features:
-- Hours Studied  
-- Attendance (%)  
-- Sleep Hours  
-- Previous Scores  
-- Tutoring Sessions  
-- Physical Activity  
+Two versions of the model were trained:  
 
-Target variable: Student Final Score (%)
+1. **Single Feature Model**  
+   - Input: Hours Studied  
+   - Output: Student Final Score (%)  
+
+2. **Multi-Feature Model**  
+   - Inputs:  
+     - Hours Studied  
+     - Attendance (%)  
+     - Sleep Hours  
+     - Previous Scores  
+     - Tutoring Sessions  
+     - Physical Activity  
+   - Output: Student Final Score (%)  
+
+---
+
+🛠️ Installation & Usage
+Clone the repo and run locally:  
+
+bash
+# Clone the repository
+git clone https://github.com/yourusername/student-score-prediction.git
+cd student-score-prediction
+
+📷 Screenshots
+
+Add screenshots of your Tkinter app here (optional)
+
+🌐 Live Demo
+
+🔗 Try the Single Feature Model
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Tkinter app
+python app.py
 
