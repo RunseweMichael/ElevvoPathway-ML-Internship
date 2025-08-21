@@ -36,22 +36,11 @@ Two versions of the model were trained:
    - Output: Student Final Score (%)  
 
 ---
-
-🛠️ Installation & Usage
-Clone the repo and run locally:  
-
-bash
-# Clone the repository
-git clone https://github.com/yourusername/score-prediction.git
-cd student-score-prediction
-
-📷 Screenshots
-
-Add screenshots of your Tkinter app here (optional)
+ 
 
 🌐 Live Demo
 
-🔗 Try the Single Feature Model
+🔗 https://elevvopathway-ml-internship-model1.onrender.com/
 
 🤝 Contributing
 
