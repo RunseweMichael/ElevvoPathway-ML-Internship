@@ -42,7 +42,7 @@ Clone the repo and run locally:
 
 bash
 # Clone the repository
-git clone https://github.com/yourusername/student-score-prediction.git
+git clone https://github.com/yourusername/score-prediction.git
 cd student-score-prediction
 
 📷 Screenshots
