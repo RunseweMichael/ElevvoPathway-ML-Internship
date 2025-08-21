@@ -68,3 +68,21 @@ pip install -r requirements.txt
 # Run the Tkinter app
 python app.py
 
+
+## 📷 Screenshots
+
+### Scatter Plot (Actual score vs Predicted score)
+![Scatter Plot](images/scatterplot.png)
+
+### Exam Score Bar Graph
+![Bar Graph](images/barchart.png)
+
+### Tkinter GUI
+![Tkinter app](images/tkinter1.png)
+
+### Tkinter Result
+![Tkinter app](images/tkinter2.png)
+
+### Django Application
+![Live app](images/djangoApp.png)
+
