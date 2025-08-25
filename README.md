@@ -61,7 +61,7 @@ python app.py
 ## 📷 Screenshots
 
 ### Scatter Plot (Actual score vs Predicted score)
-![Scatter Plot](images/scatterplot.png)
+![Scatter Plot](scatterplot.png)
 
 ### Exam Score Bar Graph
 ![Bar Graph](images/barchart.png)
