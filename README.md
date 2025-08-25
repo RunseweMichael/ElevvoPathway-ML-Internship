@@ -63,6 +63,8 @@ python app.py
 ### Scatter Plot (Actual score vs Predicted score)
 ![Scatter Plot](scatterplot.png)
 ![Scatter Plot](https://raw.githubusercontent.com/RunseweMichael/ElevvoPathway-ML-Internship/main/images/scatterplot.png)
+![Scatter Plot](https://raw.githubusercontent.com/RunseweMichael/ElevvoPathway-ML-Internship/master/images/scatterplot.png)
+
 
 
 ### Exam Score Bar Graph
