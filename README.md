@@ -63,7 +63,8 @@ python app.py
 ### Scatter Plot (Actual score vs Predicted score)
 ![Scatter Plot](scatterplot.png)
 ![Scatter Plot](https://raw.githubusercontent.com/RunseweMichael/ElevvoPathway-ML-Internship/main/images/scatterplot.png)
-![Scatter Plot](https://raw.githubusercontent.com/RunseweMichael/ElevvoPathway-ML-Internship/master/images/scatterplot.png)
+![Scatter Plot](https://github.com/RunseweMichael/ElevvoPathway-ML-Internship/blob/17721d3dbe4130a11a6ca60ec38201a15f55b0fd/djangoapp.png)
+
 
 
 
