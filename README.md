@@ -56,27 +56,3 @@ pip install -r requirements.txt
 
 # Run the Tkinter app
 python app.py
-
-
-## 📷 Screenshots
-
-### Scatter Plot (Actual score vs Predicted score)
-![Scatter Plot](scatterplot.png)
-![Scatter Plot](https://raw.githubusercontent.com/RunseweMichael/ElevvoPathway-ML-Internship/main/images/scatterplot.png)
-![Scatter Plot](https://github.com/RunseweMichael/ElevvoPathway-ML-Internship/blob/17721d3dbe4130a11a6ca60ec38201a15f55b0fd/djangoapp.png)
-
-
-
-
-### Exam Score Bar Graph
-![Bar Graph](images/barchart.png)
-
-### Tkinter GUI
-![Tkinter app](images/tkinter1.png)
-
-### Tkinter Result
-![Tkinter app](images/tkinter2.png)
-
-### Django Application
-![Live app](images/djangoApp.png)
-
